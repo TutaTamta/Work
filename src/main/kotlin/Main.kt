@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
         }
 
     println("Какой граф?")
-    println("1: простой")
+    println("1: неориентированный")
     println("2: ориентированный")
 
 
