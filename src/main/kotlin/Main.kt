@@ -14,7 +14,6 @@ fun main(args: Array<String>) {
             println("e${i}: ")
             a = readln()
             b = readln()
-            //val listOfNodes: List<Int> = listOf(a.toInt(), b.toInt())
             grafs.put(i, listOf(a.toInt(), b.toInt()))
         }
 
